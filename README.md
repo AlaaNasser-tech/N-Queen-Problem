@@ -45,4 +45,5 @@ To provide a visual and comparative demonstration of AI search and optimization 
 
 ## 🎬 Demo Video
 
-[▶ Watch Demo Video]  (https://github.com/AlaaNasser-tech/N-Queen-Problem/raw/main/n%20queen%20video.mp4)
+[▶ Watch Demo Video]
+(https://github.com/AlaaNasser-tech/N-Queen-Problem/raw/main/n%20queen%20video.mp4)
