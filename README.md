@@ -18,17 +18,15 @@
 
 <img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/ca5afa71-4292-4425-89ce-b12b3e4518e2" />
 
-​# ✨ Key Features
+​#  Key Features
 ​Interactive GUI to visualize board states and search progress.
 ​Real-time comparison between traditional and evolutionary search algorithms.
 ​Educational tool designed to simplify AI search concepts.
 
 
-​# 🎯 Goal
+​#  Goal
 ​To provide a visual and comparative demonstration of AI search and optimization techniques applied to the N-Queens problem.
-# N-Queen Problem Solver
 
-
-# Demo Video
+# Demo Video 
 
 https://github.com/AlaaNasser-tech/N-Queen-Problem/raw/main/n%20queen%20video.mp4
